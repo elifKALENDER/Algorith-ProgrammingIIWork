@@ -855,4 +855,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+Desktop.ini
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Test,Csharp,VisualStudio
